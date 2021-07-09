@@ -6,4 +6,5 @@
 
 ### Connect With me:
 
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+<link rel="stylesheet" href="https://www.linkedin.com/in/caique-ramos-601782176/">
+<img src="https://www.jsdelivr.com/package/npm/dustjs-linkedin" alt="">
