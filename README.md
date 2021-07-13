@@ -13,9 +13,6 @@
     <a href="https://www.instagram.com/caiquee_ramos/">
         <img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="" height="30px">
     </a>
-    <a href=" https://wa.me/67993460870">
-        <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" alt="" height="30px">
-    </a>
 </div>
 
 ### My loves ###
