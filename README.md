@@ -43,3 +43,5 @@
 }
 ```
 
+Por sinal estou aberto a propostar de projeto/emprego/estágio
+
