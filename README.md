@@ -38,7 +38,7 @@
         "Web designer": "Freelancer using CorelDraw and Director of Athletic Computing at ufms"
     },
     "Seeking out": {
-        "Developer": "Working with innovation using javaScript"
+        "Developer": "Working with innovation"
     }
 }
 ```
