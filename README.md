@@ -43,5 +43,5 @@
 }
 ```
 
-Por sinal estou aberto a propostar de projeto/emprego/estágio
+Por sinal estou aberto a propostas de projeto/emprego/estágio
 
