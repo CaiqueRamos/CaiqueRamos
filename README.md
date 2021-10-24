@@ -31,9 +31,11 @@
 {
     "My": {
         "Name": "Caique",
-        "College": "UFMS"
+        "College": "UFMS - Systems analysis and development",
+        "Ocupation" : "Front-end Software Engineer jr"
     },
     "Experiences": {
+        "Frontend" : "React and Node",
         "Web Developer" : "With html, css, js and Wordpress",
         "Web designer": "Freelancer using CorelDraw and Director of Athletic Computing at ufms"
     },
