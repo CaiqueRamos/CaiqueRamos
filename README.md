@@ -15,7 +15,7 @@
     </a>
 </div>
 
-### My loves ###
+### My main stacks ###
 
 <div style="background-color: aqua; color: azure;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="" height="30px">
