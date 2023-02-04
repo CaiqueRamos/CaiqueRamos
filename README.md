@@ -35,19 +35,15 @@
 {
     "My": {
         "Name": "Caique",
-        "College": "UFMS - Systems analysis and development",
-        "Ocupation" : "Front-end Software Engineer jr"
+        "Bachelor": "I got my degree in: Systems analysis and development - UFMS",
+        "Ocupation" : "Front-end Software Engineer",
     },
     "Experiences": {
-        "Frontend" : "React and Node",
-        "Web Developer" : "With html, css, js and Wordpress",
-        "Web designer": "Freelancer using CorelDraw and Director of Athletic Computing at ufms"
+        "linkedin": "https://www.linkedin.com/in/caique-ramos-601782176/"
     },
     "Seeking out": {
         "Developer": "Working with innovation"
     }
 }
 ```
-
-Por sinal estou aberto a propostas de projeto/emprego/estágio
 
